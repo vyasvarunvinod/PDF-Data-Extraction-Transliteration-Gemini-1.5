@@ -80,9 +80,3 @@ Store API key securely via .env.
 
 👨‍💻 Author
 Script maintained by Varun Vyas. Built with ❤️ for Hindi Kirtan digitization.
-
-yaml
-Copy
-Edit
-
----
