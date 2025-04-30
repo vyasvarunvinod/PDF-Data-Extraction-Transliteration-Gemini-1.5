@@ -18,7 +18,9 @@ pip install PyMuPDF Pillow google-generativeai indic-transliteration
 
 You also need a Google Gemini API Key. You can get it from https://makersuite.google.com/app.
 
-File structure should be :
+📁 File Structure
+Copy
+Edit
 .
 ├── script.py
 ├── part2.pdf
