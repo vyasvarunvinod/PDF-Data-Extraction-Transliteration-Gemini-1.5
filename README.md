@@ -31,7 +31,7 @@ Edit
 🚀 How to Run ?
 Run this command in your VScode Terminal :
 ```
-python script.py part2.pdf
+python Devnagri_and_IAST_Output.py.py part2.pdf
 ```
 
 📄 Output Files
